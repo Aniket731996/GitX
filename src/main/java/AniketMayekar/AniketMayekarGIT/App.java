@@ -23,7 +23,12 @@ public class App {
                 public static void main(String[] args) {
                     System.out.println("YOU ARE WELCOME");
                 }
+                
+                public class App5 {
+                    public static void main(String[] args) {
+                        System.out.println("HIGH FIVE");
+                    }
  }
  }
 }
-}
+}}

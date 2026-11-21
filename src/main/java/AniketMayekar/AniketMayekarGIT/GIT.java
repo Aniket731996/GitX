@@ -22,9 +22,15 @@ public void gitCommands3(){
 	System.out.println("GIT COMMANDS3");
 
 }
-public void gitCommands4(){
+public void gitCommands5(){
 	
 	System.out.println("GIT COMMANDS4");
+
+}
+
+public void gitCommands4(){
+	
+	System.out.println("GIT COMMANDS5");
 
 }
 }
