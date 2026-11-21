@@ -13,6 +13,12 @@ public class App {
             public static void main(String[] args) {
                 System.out.println("I'M FINE");
             }
+            
+            public class App3 {
+                public static void main(String[] args) {
+                    System.out.println("THANK YOU");
+                }
 }
-    }
-    }
+ }
+ }
+}

@@ -17,4 +17,9 @@ public void gitCommands2(){
 		System.out.println("GIT COMMANDS2");
 	
 }
+public void gitCommands3(){
+	
+	System.out.println("GIT COMMANDS3");
+
+}
 }
