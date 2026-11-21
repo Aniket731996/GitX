@@ -12,4 +12,9 @@ public class GIT {
 		System.out.println("GIT COMMANDS1");
 }
 	
+public void gitCommands2(){
+		
+		System.out.println("GIT COMMANDS2");
+	
+}
 }
